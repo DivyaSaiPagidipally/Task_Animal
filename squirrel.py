@@ -6,4 +6,4 @@ class Squirrel:
         print("I can Sleep")
 
     def sound(self):
-        print("I can sound")
+        print("I can Sound")
